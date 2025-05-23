@@ -198,10 +198,11 @@ packages:
   simple_easy_menssages:
     dependency: "direct main"
     description:
-      path: "../simple_easy_menssages"
-      relative: true
-    source: path
-    version: "0.0.1"
+      name: simple_easy_menssages
+      sha256: "3a80e49b6383520dbfa613f045e21711945b43f74149a12239f581152ff4e152"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
